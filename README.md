@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigBullDev
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Web3.0
+- 🌱 I’m currently building Web3.0
 - 💞️ I’m looking to collaborate on Web3.0 projects
 - 📫 How to reach me https://linktr.ee/bigbulldev
 
